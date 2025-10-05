@@ -1,10 +1,20 @@
-astroberry-server-artwork (2.0.1) buster; urgency=medium
+astroberry64-server-artwork (2.0.1-astroberry64.1) bookworm; urgency=medium
+
+  * Initial Astroberry64 migration for 64-bit Raspberry Pi OS
+  * Forked from Radek Kaczorek's Astroberry Server
+  * Renamed from 2.0.1
+  * Target: Debian Bookworm (64-bit) for Raspberry Pi 4/5
+  * Radek: We hope you'll join the Astroberry64 team!
+
+ -- Astroberry64 Team <astroberry64@speckle.red>  Sun, 05 Oct 2025 21:59:45 +0200
+
+astroberry-server-artwork (2.0.1) bookworm; urgency=medium
 
   * Changing start-here icon
 
  -- Radek Kaczorek <rkaczorek@gmail.com>  Sun, 14 Jun 2020 02:33:28 +0200
 
-astroberry-server-artwork (2.0.0) buster; urgency=medium
+astroberry-server-artwork (2.0.0) bookworm; urgency=medium
 
   * Initial release.
 
